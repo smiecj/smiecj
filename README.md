@@ -6,11 +6,17 @@
 - 🐳 [docker-centos](https://github.com/smiecj/docker-centos) 、 [docker-ubuntu](https://github.com/smiecj/docker-ubuntu) - dev environment and emr component image
 - 🔧 [shell-tools](https://github.com/smiecj/shell-tools) - for quickly install some dev components like golang、gcc、zsh
 - 📊 [hue](https://github.com/smiecj/hue/tree/branch-4.10.0) 、 [azkaban](https://github.com/smiecj/azkaban/tree/b_3_90_extend) 、 [datalink](https://github.com/smiecj/Datalink/tree/dev_bugfix) - fork emr service and bug fix
-- ⌨️ [go_common](https://github.com/smiecj/go_common) 、 [python_basic](https://github.com/smiecj/python_basic) 、 [go_basic](https://github.com/smiecj/go_basic) - lang learn proj
+- ⌨️ [go_common](https://github.com/smiecj/go_common) 、 [python_basic](https://github.com/smiecj/python_basic) 、 [go_basic](https://github.com/smiecj/go_basic) - lang learn demo
 
 #### articles
 
 - [Use Docker Compose to start hdfs cluster locally](https://smiecj.github.io/2022/08/13/dockerfile-compose-hdfs)
+
+#### focus area
+
+- 📊 data collect and storage: use [rss](https://docs.rsshub.app) to collect data, and filter data which is useful for myself
+- 🧑‍💻	devops: build cloud develop environment ( [remote develop](https://code.visualstudio.com/docs/remote/ssh) ) and easily release service, can develop anywhere, anytime
+- 🧭 monitor: [prometheus](https://github.com/prometheus/prometheus) + [grafana](https://github.com/grafana/grafana) + [log system](https://github.com/giefferre/EFK-stack), to know system status and focus critical metrics
 
 #### planning to do
 
